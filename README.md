@@ -32,7 +32,7 @@ Currently   :
   - 🔨 Building production-grade MERN projects
   - 🧠 Grinding LeetCode daily (DSA Mastery)
   - 📊 Exploring Data Science & Python
-  - 🎯 Targeting Top Product Companies (₹50 LPA+)
+
 
 Fun Fact    : I write code like poetry — clean, purposeful,
               and occasionally brilliant at 2AM ☕
