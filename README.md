@@ -81,7 +81,7 @@ Fun Fact    : I write code like poetry — clean, purposeful,
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/A_S123456?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/u/A_S123456/)
+
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-A_S123456-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
