@@ -77,15 +77,7 @@ Fun Fact    : I write code like poetry — clean, purposeful,
 
 ---
 
-## 🧠 LeetCode Stats
 
-<div align="center">
-
-
-
-![LeetCode](https://img.shields.io/badge/LeetCode-A_S123456-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-
-</div>
 
 ---
 
