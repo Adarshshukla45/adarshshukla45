@@ -104,13 +104,7 @@ Fun Fact    : I write code like poetry — clean, purposeful,
 
 ---
 
-## 📈 Contribution Graph
 
-<div align="center">
-
-[![Adarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adarshshukla45&bg_color=0d1117&color=00f7ff&line=a78bfa&point=00f7ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
