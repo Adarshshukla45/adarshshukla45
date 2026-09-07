@@ -1,226 +1,157 @@
-<div align="center">
+\<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Adarsh%20Shukla&fontSize=60&fontColor=00f7ff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20DSA&descAlignY=57&descSize=19&descColor=a78bfa&animation=fadeIn"/>
+\<!-- HERO BANNER -->
+\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Adarsh%20Shukla&fontSize=60&fontColor=00f7ff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Future%20SDE&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving\&color=0:0f0c29,50:302b63,100:24243e\&height=200\&section=header\&text=Adarsh%20Shukla\&fontSize=60\&fontColor=00f7ff\&fontAlignY=38\&desc=MERN%20Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Future%20SDE\&descAlignY=58\&descSize=18\&descColor=a78bfa\&animation=fadeIn)"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=🚀+Building+Full+Stack+MERN+Applications;🤖+Exploring+AI+%26+Machine+Learning;🧠+Solving+DSA+Problems+with+C%2B%2B;⚡+Building+AI-Powered+Web+Applications;💻+Turning+Ideas+Into+Scalable+Products" alt="Typing SVG"/>
+\<!-- Typing Animation -->
+\<!-- \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=false&width=650&lines=🚀+Full+Stack+Developer+%7C+MERN+Stack;🧠+DSA+Problem+Solver+%7C+C%2B%2B+Expert;📊+LeetCode+Consistent+Grinder;🎯+Targeting+₹50+LPA%2B+Product+Companies;💡+Turning+Ideas+Into+Scalable+Web+Apps](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=700\&size=22\&duration=3000\&pause=800\&color=00F7FF\&center=true\&vCenter=true\&multiline=false\&width=650\&lines=🚀+Full+Stack+Developer+%7C+MERN+Stack;🧠+DSA+Problem+Solver+%7C+C%2B%2B+Expert;📊+LeetCode+Consistent+Grinder;🎯+Targeting+₹50+LPA%2B+Product+Companies;💡+Turning+Ideas+Into+Scalable+Web+Apps)" alt="Typing SVG" /> -->
 
-<br/>
+\<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Adarshshukla45&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS"/>
+\<!-- Profile views + Followers badges -->
+![Profile Views]\([https://komarev.com/ghpvc/?username=Adarshshukla45&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=Adarshshukla45\&color=00f7ff\&style=for-the-badge\&label=PROFILE+VIEWS))
+[![GitHub followers]\([https://img.shields.io/github/followers/Adarshshukla45?label=Followers&style=for-the-badge&color=302b63&labelColor=0f0c29)\](https://github.com/Adarshshukla45](https://img.shields.io/github/followers/Adarshshukla45?label=Followers\&style=for-the-badge\&color=302b63\&labelColor=0f0c29\)]\(https://github.com/Adarshshukla45))
+[![GitHub Stars]\([https://img.shields.io/github/stars/Adarshshukla45?label=Total%20Stars&style=for-the-badge&color=302b63&labelColor=0f0c29)\](https://github.com/Adarshshukla45](https://img.shields.io/github/stars/Adarshshukla45?label=Total%20Stars\&style=for-the-badge\&color=302b63\&labelColor=0f0c29\)]\(https://github.com/Adarshshukla45))
 
-<br/><br/>
+\</div>
 
-<a href="https://github.com/Adarshshukla45">
-<img src="https://img.shields.io/github/followers/Adarshshukla45?style=for-the-badge&logo=github&label=Followers&color=302b63"/>
-</a>
+\---
 
-<a href="https://github.com/Adarshshukla45">
-<img src="https://img.shields.io/github/stars/Adarshshukla45?style=for-the-badge&logo=github&label=Stars&color=302b63"/>
-</a>
+\<!-- ABOUT ME SECTION -->
+\## \<img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)" width="28"> &nbsp;About Me
+\<img align="right" alt="Coding" width="360" src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)"/> 
 
-</div>
+\`\`\`yaml
+Name        : Adarsh Shukla
+Role        : MERN Stack Developer & DSA Enthusiast
+Education   : B.Tech — Computer Science
+Location    : India 🇮🇳
+Focus       : Full Stack Dev + Competitive Programming
 
----
+Currently   :
+  \- 🔨 Building production-grade MERN projects
+  \- 🧠 Grinding LeetCode daily (DSA Mastery)
+  \- 📊 Exploring Data Science & Python
 
-## 👋 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-```yaml
-Name: Adarsh Shukla
-Role: Full Stack Developer
-Education: B.Tech — Computer Science
-Location: India 🇮🇳
+Fun Fact    : I write code like poetry — clean, purposeful,
+              and occasionally brilliant at 2AM ☕
+\`\`\`
 
-Core:
-  - MERN Stack
-  - Backend Development
-  - Data Structures & Algorithms
-  - AI / Machine Learning
+\<br clear="right"/>
 
-Currently:
-  - Building production-oriented applications
-  - Learning Machine Learning
-  - Exploring AI integration
-  - Solving DSA problems
-```
+\---
 
-<br clear="right"/>
+\## 🛠️ Tech Arsenal
 
----
+\<div align="center">
 
-## ⚡ Tech Stack
+\### 💻 Languages
+![C++]\([https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white))
+![JavaScript]\([https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black))
+![Python]\([https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white))
+![HTML5]\([https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white))
+![CSS3]\([https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white))
 
-### 💻 Languages
+\### ⚡ Frontend
+![React]\([https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB))
+![Tailwind CSS]\([https://img.shields.io/badge/Tailwind\_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white))
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,html,css&theme=dark"/>
-</p>
+\### 🔧 Backend & Database
+![Node.js]\([https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white))
+![Express.js]\([https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white))
+![MongoDB]\([https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white))
 
-### 🎨 Frontend
+\### 📊 Data Science
+![NumPy]\([https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white))
+![Pandas]\([https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white))
+![Matplotlib]\([https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge\&logo=python\&logoColor=white))
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,redux&theme=dark"/>
-</p>
+\### 🧰 Tools & Platforms
+![Git]\([https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white))
+![GitHub]\([https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white))
+![VS Code]\([https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white))
+![Postman]\([https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white))
 
-### ⚙️ Backend
+\</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
-</p>
+\---
 
-### 🗄️ Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql&theme=dark"/>
-</p>
 
-### 🤖 AI / Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-</p>
 
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
+\---
 
-### 🧰 Tools
+\## 📊 GitHub Analytics
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark"/>
-</p>
+\<div align="center">
 
----
+\<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=Adarshshukla45&show\_icons=true&theme=tokyonight&include\_all\_commits=true&count\_private=true&hide\_border=true&bg\_color=0d1117&title\_color=00f7ff&icon\_color=a78bfa&text\_color=ffffff](https://github-readme-stats.vercel.app/api?username=Adarshshukla45\&show_icons=true\&theme=tokyonight\&include_all_commits=true\&count_private=true\&hide_border=true\&bg_color=0d1117\&title_color=00f7ff\&icon_color=a78bfa\&text_color=ffffff)"/>
+\<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshshukla45&layout=compact&theme=tokyonight&hide\_border=true&bg\_color=0d1117&title\_color=00f7ff&text\_color=ffffff](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshshukla45\&layout=compact\&theme=tokyonight\&hide_border=true\&bg_color=0d1117\&title_color=00f7ff\&text_color=ffffff)"/>
 
-## 🚀 Featured Project
+\<br/>
 
-### 🩺 SwasthAI
+\<img src="[https://github-readme-streak-stats.herokuapp.com/?user=Adarshshukla45&theme=tokyonight&hide\_border=true&background=0d1117&stroke=00f7ff&ring=a78bfa&fire=ff6b6b&currStreakLabel=00f7ff](https://github-readme-streak-stats.herokuapp.com/?user=Adarshshukla45\&theme=tokyonight\&hide_border=true\&background=0d1117\&stroke=00f7ff\&ring=a78bfa\&fire=ff6b6b\&currStreakLabel=00f7ff)" />
 
-**AI-Powered Health Risk & Wellness Recommendation System**
+\</div>
 
-```text
-User
- ↓
-Health & Lifestyle Data
- ↓
-Risk Assessment
- ↓
-Recommendation Engine
- ↓
-Safety Engine
- ↓
-Personalized Wellness Recommendations
-```
+\---
 
-**Tech Stack**
 
-`React` `Node.js` `Express` `MongoDB` `Python` `Machine Learning` `REST API`
 
-**Focus**
 
-* 🔐 Authentication & authorization
-* 📊 User health/lifestyle data
-* 🤖 ML-based risk assessment
-* 🎯 Personalized recommendations
-* 🛡️ Safety-aware recommendation layer
-* 🔗 MERN + AI integration
 
----
+\---
 
-## 🧠 DSA Journey
 
-<div align="center">
 
-<img src="https://leetcard.jacoblin.cool/A_S123456?theme=dark&font=Karma&ext=heatmap"/>
 
-</div>
 
-**Practicing:**
+\---
 
-`Arrays` · `Strings` · `Linked List` · `Stack` · `Queue` · `Trees` · `Graphs` · `DP` · `Greedy` · `Binary Search`
 
----
 
-## 📊 GitHub Analytics
 
-<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adarshshukla45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=a78bfa&text_color=ffffff"/>
+\---
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshshukla45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff"/>
+\## 🌐 Connect With Me
 
-<br/>
+\<div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adarshshukla45&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7ff&ring=a78bfa&fire=ff6b6b&currStreakLabel=00f7ff"/>
+[![LinkedIn]\([https://img.shields.io/badge/LinkedIn-Adarsh%20Shukla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)\](https://www.linkedin.com/in/adarsh-shukla-741b86335/](https://img.shields.io/badge/LinkedIn-Adarsh%20Shukla-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white\)]\(https://www.linkedin.com/in/adarsh-shukla-741b86335/))
+[![LeetCode]\([https://img.shields.io/badge/LeetCode-A\_\_S123456-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)\](https://leetcode.com/u/A\_S123456/](https://img.shields.io/badge/LeetCode-A__S123456-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black\)]\(https://leetcode.com/u/A_S123456/))
+[![GitHub]\([https://img.shields.io/badge/GitHub-Adarshshukla45-181717?style=for-the-badge&logo=github&logoColor=white)\](https://github.com/Adarshshukla45](https://img.shields.io/badge/GitHub-Adarshshukla45-181717?style=for-the-badge\&logo=github\&logoColor=white\)]\(https://github.com/Adarshshukla45))
 
-</div>
+\<br/>
 
----
+\*\*💬 Open to internships, collaborations, and full-time SDE roles!\*\*
 
-## 🐍 Contribution Activity
+\</div>
 
-<div align="center">
+\---
 
-<img src="https://raw.githubusercontent.com/Adarshshukla45/Adarshshukla45/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
-</div>
 
----
+\---
 
-## 📚 Currently Learning
+\<div align="center">
 
-<div align="center">
+\### 💡 Dev Philosophy
 
-```text
-MERN
-  ↓
-Advanced Backend
-  ↓
-REST APIs
-  ↓
-Authentication & Security
-  ↓
-Python
-  ↓
-Machine Learning
-  ↓
-AI Integration
-  ↓
-AI-Powered Full Stack Systems
-```
+\> \*"Clean code is not written by following a set of rules.\*
+\> \*You know you are working on clean code when each routine you read\*
+\> \*turns out to be pretty much what you expected."\*
+\> — Robert C. Martin
 
-</div>
+\<br/>
 
+\*\*⚡ "I don't just write code — I architect solutions, one commit at a time."\*\*
 
+\<br/>
 
-## 🌐 Connect With Me
+\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving\&color=0:24243e,50:302b63,100:0f0c29\&height=120\&section=footer\&animation=fadeIn)"/>
 
-<div align="center">
-
-<a href="https://github.com/Adarshshukla45">
-<img src="https://img.shields.io/badge/GitHub-Adarshshukla45-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/adarsh-shukla-741b86335/">
-<img src="https://img.shields.io/badge/LinkedIn-Adarsh%20Shukla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/A_S123456/">
-<img src="https://img.shields.io/badge/LeetCode-A_S123456-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 Build → Learn → Solve → Improve
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&animation=fadeIn"/>
-
-</div>
+\</div>
