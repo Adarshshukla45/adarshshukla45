@@ -101,8 +101,6 @@ Goal:
 
 ### 🧠 Generative AI
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-412991?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLM-6E40C9?style=for-the-badge)
 
@@ -125,7 +123,7 @@ Frontend
  ├── React
  ├── JavaScript / TypeScript
  ├── Tailwind CSS
- └── Redux
+
 
 Backend
  ├── Node.js
@@ -150,15 +148,13 @@ AI / ML
 Generative AI
  ├── LLM Applications
  ├── Prompt Engineering
- ├── LangChain
- ├── LangGraph
- └── AI Agents
+
 
 Problem Solving
  ├── C++
  ├── Data Structures
  ├── Algorithms
- └── Competitive Programming
+
 ```
 
 
@@ -206,9 +202,7 @@ MERN Stack
                       ├── LLMs
                       ├── NLP
                       ├── RAG
-                      ├── LangChain
-                      ├── LangGraph
-                      └── AI Agents
+                  
 ```
 
 ---
