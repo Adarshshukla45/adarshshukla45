@@ -139,8 +139,7 @@ Database
 AI / ML
  ├── Python
  ├── NumPy
- ├── Pandas
- ├── Scikit-learn
+ ├── Pandas 
  ├── Machine Learning
  ├── NLP
  └── Recommendation Systems
